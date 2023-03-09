@@ -1,22 +1,58 @@
-1.  Introduction to Java
+1.  Git & GitHub
+2.  Introduction to Java
 
-    -   History of Java
     -   Java Environment Setup
     -   Java Syntax and Semantics
     -   Data Types, Variables and Operators
+    -   Inputs and Outputs
     -   Control Structures
+        -   if-else
+        -   switch statements
+        -   ternary operators
+        -   break
+        -   continue
     -   Loops
+        -   for
+        -   for-each
+        -   Labeled For Loop
+        -   while
+        -   do-while
     -   Arrays
-2.  Object-Oriented Programming (OOP) in Java
+    -   Strings
+3.  Object-Oriented Programming (OOP) in Java
 
     -   Classes and Objects
-    -   Inheritance and Polymorphism
-    -   Abstraction
-    -   Encapsulation
-    -   Interfaces
-    -   Exception Handling
+    -   Constructors
+    -   Methods
+    -   'this' Keyword
+    -   Properties
+        -   Inheritance
+        -   Abstraction
+        -   Polymorphism
+        -   Encapsulation
+    -   Functions
+        -   Scoping in Java
+        -   Shadowing
+        -   Variable Length Arguments
+        -   Overloading
+        -   Overriding
+    -   Static & Non-Static
     -   Packages
-3.  Java Collections
+    -   Access Control
+    -   Interfaces
+    -   Abstract Classes
+    -   Nested Classes
+    -   Annotations
+    -   Singleton Class
+    -   final, finalize, finally
+    -   Object Cloning
+    -   Object Class
+    -   Generics
+    -   Exception Handling
+    -   Vector Class
+    -   Lambda Expression
+    -   Enums
+4.  Java Collections
 
     -   ArrayList
     -   LinkedList
@@ -25,13 +61,13 @@
     -   TreeSet
     -   TreeMap
     -   Iterators
-4.  Java Input and Output (I/O) Streams
+5.  Java Input and Output (I/O) Streams
 
     -   Byte Streams
     -   Character Streams
     -   File Handling
     -   Serialization
-5.  Java Threads
+6.  Java Threads
 
     -   Multithreading
     -   Synchronization
